@@ -1,0 +1,9 @@
+Internal sources used for narrative and claims:
+- documents/presentations/demo-v2/index.html
+- documents/presentations/demo/demo-ideas.md
+- wiki/pncli/pncli-overview.md
+- wiki/copilot/copilot-cli-permissions-and-sandboxing.md
+- wiki/agent-harness-engineering/agent-skills-marketplaces.md
+- wiki/agent-harness-engineering/agent-skills-supply-chain-security.md
+
+Visual assets were generated specifically for this deck using OpenAI image generation.
